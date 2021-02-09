@@ -18,16 +18,16 @@
 
 <p>
   
-<img src="https://img.icons8.com/color/50/26e07f/python.png"/>
-<img src="https://img.icons8.com/color/96/26e07f/javascript.png"/>
-<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
-<img src="https://img.icons8.com/color/88/000000/redux.png"/>
-<img src="https://img.icons8.com/color/100/000000/django.png"/>
-<img src="https://img.icons8.com/material/96/4a90e2/postgreesql.png"/>
-<img src="https://img.icons8.com/color/96/4a90e2/graphql.png"/>
-<img src="https://img.icons8.com/color/96/26e07f/npm.png"/>
-<img src="https://img.icons8.com/color/96/4a90e2/firebase.png"/>
+<img src="https://img.icons8.com/color/70/26e07f/python.png"/>
+<img src="https://img.icons8.com/color/70/26e07f/javascript.png"/>
+<img src="https://img.icons8.com/color/70/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/plasticine/74/000000/react.png"/>
+<img src="https://img.icons8.com/color/70/000000/redux.png"/>
+<img src="https://img.icons8.com/color/74/000000/django.png"/>
+<img src="https://img.icons8.com/material/70/4a90e2/postgreesql.png"/>
+<img src="https://img.icons8.com/color/70/4a90e2/graphql.png"/>
+<img src="https://img.icons8.com/color/70/26e07f/npm.png"/>
+<img src="https://img.icons8.com/color/70/4a90e2/firebase.png"/>
 
 </p>
 
