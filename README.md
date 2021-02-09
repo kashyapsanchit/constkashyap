@@ -28,6 +28,8 @@
 <img src="https://img.icons8.com/color/70/4a90e2/graphql.png"/>
 <img src="https://img.icons8.com/color/70/26e07f/npm.png"/>
 <img src="https://img.icons8.com/color/70/4a90e2/firebase.png"/>
+<img src="https://img.icons8.com/color/70/windows-10.png" />
+<img src="https://img.icons8.com/color/70/linux.png"/>
 
 </p>
 
