@@ -23,5 +23,5 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-<img src="https://img.icons8.com/doodle/50/000000/linkedin.png"/>
+<img src="https://img.icons8.com/doodle/50/000000/linkedin.png" href="https://www.linkedin.com/in/sanchitkashyap/"/>
 </p>
