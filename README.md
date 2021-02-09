@@ -10,3 +10,6 @@
 - 📧 How to reach me? **Connect to me via Email [Sanchit](mailto:sanchitkshyap@gmail.com)**
 
 - ⚡ Fun fact: **I love to listen to music**
+
+
+<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
