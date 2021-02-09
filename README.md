@@ -23,6 +23,6 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/sanchitkashyap" src = "https://icons8.com/icon/60ZV_wYC0BM2/linkedin"></a>
+<a href="https://www.linkedin.com/in/sanchitkashyap" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"></a>
 
 </p>
