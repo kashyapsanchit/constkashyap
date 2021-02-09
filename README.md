@@ -14,17 +14,29 @@
 
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> :wrench: Languages and Tools:</h3>
+
 <p>
+  
 <img src="https://img.icons8.com/color/96/26e07f/python.png"/>
-<img src="https://img.icons8.com/color/96/26e07f/javascript.png"/>  <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>   <img src="https://img.icons8.com/color/88/000000/redux.png"/>          <img src="https://img.icons8.com/color/100/000000/django.png"/>   <img src="https://img.icons8.com/material/96/4a90e2/postgreesql.png"/>   <img src="https://img.icons8.com/color/96/4a90e2/graphql.png"/> <img src="https://img.icons8.com/color/96/26e07f/npm.png"/>  <img src="https://img.icons8.com/color/96/4a90e2/firebase.png"/>
+<img src="https://img.icons8.com/color/96/26e07f/javascript.png"/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img src="https://img.icons8.com/color/88/000000/redux.png"/>
+<img src="https://img.icons8.com/color/100/000000/django.png"/>
+<img src="https://img.icons8.com/material/96/4a90e2/postgreesql.png"/>
+<img src="https://img.icons8.com/color/96/4a90e2/graphql.png"/>
+<img src="https://img.icons8.com/color/96/26e07f/npm.png"/>
+<img src="https://img.icons8.com/color/96/4a90e2/firebase.png"/>
+
 </p>
+
 </br>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/sanchitkashyap"><img alt="LinkedIn" title="LinkedIn" height="50" width="50" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+
 
 
 </p>
