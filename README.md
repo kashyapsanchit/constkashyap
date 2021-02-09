@@ -36,6 +36,14 @@
    <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 </p> 
 
+<hr>
+
+<hr>
+
+### S.O 💻
+
+### ✔  Elementary OS, Ubuntu, Linux Mint
+### ✔  Windows
 
 <hr>
 
