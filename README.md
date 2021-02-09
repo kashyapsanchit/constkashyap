@@ -24,14 +24,13 @@
    <img src="https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <br />
-   <img src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 </p> 
