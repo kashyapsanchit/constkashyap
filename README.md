@@ -13,3 +13,5 @@
 
 
 <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/96/000000/redux.png"/>
