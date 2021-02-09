@@ -3,10 +3,10 @@
 
 - 💻 I’m currently learning about **Backend**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript and Python based projects**
 
-- 💬 Ask me about **React, Redux, Django, Node.js, Express.js, Postgresql**
+- 💬 Ask me about **Python, Javascript, React, Redux, Django, Node.js, GraphQL, Postgresql**
 
-- 📧 How to reach me? **Connect to me via Email [Devesh](mailto:sanchitkshyap@gmail.com)**
+- 📧 How to reach me? **Connect to me via Email [Sanchit](mailto:sanchitkshyap@gmail.com)**
 
 - ⚡ Fun fact: **I love to listen to music**
