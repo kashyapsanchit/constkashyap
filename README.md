@@ -30,7 +30,6 @@
 <img src="https://img.icons8.com/color/70/4a90e2/firebase.png"/>
 <img src="https://img.icons8.com/color/70/windows-10.png" />
 <img  src="https://img.icons8.com/color/70/linux.png"/>
-<img src="https://iconscout.com/icons/rabbitmq"/>
 </p>
 
 </br>
