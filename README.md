@@ -24,13 +24,13 @@
 <img src="https://img.icons8.com/plasticine/74/000000/react.png"/>
 <img src="https://img.icons8.com/color/70/000000/redux.png"/>
 <img src="https://img.icons8.com/color/74/000000/django.png"/>
-<img src="https://img.icons8.com/material/70/4a90e2/postgreesql.png"/>
 <img src="https://img.icons8.com/color/70/4a90e2/graphql.png"/>
 <img src="https://img.icons8.com/color/70/26e07f/npm.png"/>
+<img src="https://img.icons8.com/material/70/4a90e2/postgreesql.png"/>
 <img src="https://img.icons8.com/color/70/4a90e2/firebase.png"/>
 <img src="https://img.icons8.com/color/70/windows-10.png" />
 <img  src="https://img.icons8.com/color/70/linux.png"/>
-
+<img src="https://iconscout.com/icons/rabbitmq"/>
 </p>
 
 </br>
